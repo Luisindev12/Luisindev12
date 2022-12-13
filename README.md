@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Luisindev12
+- 👀 I’m interested in Javascript and Java
+- 🌱 I’m currently learning Java Backends
+- 💞️ I’m looking to collaborate on projects that help me learn
+- 📫 How to reach me Instagram: __luisefe / Email: flimon04567@gmail.com / Facebook: Luis Fernando
